@@ -14,11 +14,12 @@ Software Engineer with hands-on experience building and maintaining scalable web
 
 ### 🛠️ Technical Skills
 
-**Frontend:** React, Svelte, SvelteKit, Tailwind CSS  
-**Backend:** Node.js, TypeScript, Python  
+**Languages:** JavaScript, TypeScript, Python  
+**Frontend:** React, Svelte, Tailwind CSS  
+**Backend:** Node.js, Express.js (REST APIs, Webhooks)
 **Databases:** PostgreSQL, SQL  
 **Platforms & Tools:** Directus, Shopify, GrapesJS  
-**Engineering Practices:** Git, APIs, CI/CD, Micro-Frontend Architecture
+**Engineering Practices:** Git, APIs, CI/CD, Docker (containerization), Micro-Frontend Architecture
 
 ---
 
