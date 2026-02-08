@@ -56,6 +56,6 @@ Software Engineer with hands-on experience building and maintaining scalable web
 ### 📫 Connect
 
 - GitHub: https://github.com/Dhanush-max  
-- LinkedIn: *(add link when available)*
+- LinkedIn: LinkedIn: https://www.linkedin.com/in/dhanush-kumar-m-942960233/
 
 > _“Consistency beats motivation.”_
