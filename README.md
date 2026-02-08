@@ -1,56 +1,60 @@
-## 👋 Hey, I'm Dhanush!
+## 👋 Hi, I’m Dhanush
 
-Software Developer | Full-Stack Enthusiast | Lifelong Learner  
-✨ Building tools, platforms & experiences that scale.
-
----
-
-### 👨‍💻 About Me
-
-- 💼 Currently working as a **Software Developer at Indpro AB**
-- 🔧 Passionate about frontend + backend, real-world problem solving
-- 🚀 Interested in **scalable systems, clean architecture, and dev workflows**
-- 🎮 Gamer & story-rich game fan — God of War, Elden Ring vibes 🎮
-- 🏋️‍♂️ Fitness journey: gaining strength, building consistency 💪
+💻 **Software Engineer**  
+⚙️ Full-Stack Development • Scalable Web Applications  
+📍 Bangalore, India
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Professional Summary
 
-**Frontend:** React, Svelte, SvelteKit, Tailwind  
+Software Engineer with hands-on experience building and maintaining scalable web applications across frontend and backend systems. I focus on clean architecture, performance optimization, and writing maintainable, production-ready code. I enjoy solving real-world problems and continuously improving engineering workflows.
+
+---
+
+### 🛠️ Technical Skills
+
+**Frontend:** React, Svelte, SvelteKit, Tailwind CSS  
 **Backend:** Node.js, TypeScript, Python  
-**Database:** PostgreSQL, SQL  
-**CMS / Tools:** Directus, Shopify, GrapesJS  
-**Dev Tools:** Git, APIs, Module Federation, CI/CD
+**Databases:** PostgreSQL, SQL  
+**Platforms & Tools:** Directus, Shopify, GrapesJS  
+**Engineering Practices:** Git, APIs, CI/CD, Micro-Frontend Architecture
 
 ---
 
-### 🌟 Featured Projects
+### 🎓 Certifications
 
-- 📚 **LMS & SCORM Platform** — multilingual courses with previews & progress
-- ⚡ **Micro Frontend Architecture** — React + Webpack Module Federation
-- 🛒 **Shopify Integrations** — custom storefront workflows
-- 🌐 **Web Network Analyzer** — lightweight monitoring app
+- 🏅 **Professional Scrum Master I (PSM I)** — Scrum.org
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Selected Work
 
-![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanush-max&show_icons=true&theme=dark)
+- 📚 **LMS & SCORM Platforms**  
+  Built multilingual learning platforms with course management, previews, and learner progress tracking.
+
+- 🧩 **Micro-Frontend Architecture**  
+  Developed modular frontends using React and Webpack Module Federation for scalable deployments.
+
+- 🛒 **Shopify Integrations**  
+  Implemented custom storefront features and backend integrations.
+
+- 🌐 **Web-Based Network Analyzer**  
+  Created a lightweight application for monitoring and analyzing network activity.
 
 ---
 
-### 🚀 Currently Learning
+### 🎯 Current Focus
 
-- DevSecOps & CI/CD best practices  
-- System design & backend optimization  
-- Pushing hard toward an athletic physique 🏋️‍♂️
+- 🔐 DevSecOps fundamentals and CI/CD pipelines  
+- 🧱 System design and backend performance optimization  
+- 📈 Writing clean, scalable, and maintainable code
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/dhanush-max  
-- 📫 Email: *Add your email here*
+- GitHub: https://github.com/Dhanush-max  
+- LinkedIn: *(add link when available)*
 
-> “Consistency beats motivation.” ✨
+> _“Consistency beats motivation.”_
