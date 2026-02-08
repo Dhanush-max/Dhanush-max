@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Dhanush
+## 👋 Hi, I’m Dhanush Kumar M
 
 💻 **Software Engineer**  
 ⚙️ Full-Stack Development • Scalable Web Applications  
